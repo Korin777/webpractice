@@ -1,3 +1,12 @@
 <?php
-echo "My first PHP script!";
+echo fdfdfdf;
 ?>
+<!DOCTYPE html>
+<html>
+<head>
+<title>test</title>
+</head>
+<body>
+<p>ggdasgdasgasg</p>
+</body>
+</html>
